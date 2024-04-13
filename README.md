@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 ![ssroy000's Stats](https://github-readme-stats.vercel.app/api?username=ssroy000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-(https://github-readme-stats.vercel.app/api?username=ssroy000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![image](https://github.com/ssroy000/ssroy000/assets/161429550/3b0b2d37-9695-441c-9270-c91d49e8166b)
+
