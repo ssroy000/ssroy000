@@ -11,9 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://visitcount.itsvg.in/api?id=ssr&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-![image](https://github.com/ssroy000/ssroy000/assets/161429550/edf52a35-098f-4a0d-9006-ef7b91f57e0b)
+![image](https://github.com/ssroy000/ssroy000/assets/161429550/7803a854-b9a3-4e05-9083-2292b97ffec7)
 
-![ssroy000's Stats](https://github-readme-stats.vercel.app/api?username=ssroy000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![image](https://github.com/ssroy000/ssroy000/assets/161429550/84f47455-4da0-4ef0-8ffd-a45b5607c4d5)
 
-![image](https://github.com/ssroy000/ssroy000/assets/161429550/3b0b2d37-9695-441c-9270-c91d49e8166b)
-
+![image](https://github.com/ssroy000/ssroy000/assets/161429550/ba84b235-74b6-44d6-81ea-0636ee895665)
