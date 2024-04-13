@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/ssroy000/ssroy000/assets/161429550/fc647c27-4788-4303-8f47-93023cefdb71)
 
 [![](https://visitcount.itsvg.in/api?id=ssroy000&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ssroy000&label=Profile%20Views&color=4&pretty=false" />
+</a>
