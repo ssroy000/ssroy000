@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![image](https://github.com/ssroy000/ssroy000/assets/161429550/fc647c27-4788-4303-8f47-93023cefdb71)
 
-[![](https://visitcount.itsvg.in/api?id=ssr&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 ![image](https://github.com/ssroy000/ssroy000/assets/161429550/7803a854-b9a3-4e05-9083-2292b97ffec7)
 
 ![image](https://github.com/ssroy000/ssroy000/assets/161429550/84f47455-4da0-4ef0-8ffd-a45b5607c4d5)
