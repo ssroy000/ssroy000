@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ssroy000
-- 
-- 🌱 I’m currently learning Java 
+  
 
 
 <!---
