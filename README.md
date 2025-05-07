@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://github.com/ssroy000/ssroy000/assets/161429550/ba84b235-74b6-44d6-81ea-0636ee895665)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-ssroy000.ssroy000)
 
